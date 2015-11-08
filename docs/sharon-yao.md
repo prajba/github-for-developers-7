@@ -3,3 +3,4 @@
 * __Country__: China
 * __Favorite food__: Beefsteak
 * __Hobby__: Yoga
+* __Favorite color__: Red
