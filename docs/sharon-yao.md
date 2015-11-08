@@ -1,5 +1,5 @@
 # Introduction
-* Name: Sharon Yao
-* Country: China
-* Favorite food: Beefsteak
-* Hobby: Yoga
+* __Name__: Sharon Yao
+* __Country__: China
+* __Favorite food__: Beefsteak
+* __Hobby__: Yoga
