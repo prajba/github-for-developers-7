@@ -11,3 +11,6 @@ You'll use this repo with GitHub's training on the Wheelhouse platform. When you
 ## Student Information
 - __Name__: Sharon Yao
 - __Email__: albeeyao@gmail.com
+
+## Duration
+Nov 7th, 2015 ~ Nov 8th, 2015
